@@ -1,0 +1,60 @@
+body{
+text-align: center;
+    
+}
+
+#marqueeStyle{
+    background-color:azure;
+    color: dimgrey;
+    font-family: cursive;
+}
+
+.navbar-inverse{
+   font-family: cursive; 
+    
+}
+
+
+#about{
+    font-size: 25;
+    font-family: cursive;
+}
+
+h1{
+    font-family: cursive
+}
+
+h2{
+    font-family: cursive
+}
+
+h3{
+    font-family: cursive
+}
+
+h4{
+    font-family: cursive
+}
+
+.campus{
+    width:260px;
+    height:195px;
+    border-bottom-style: ridge;
+}
+
+.achiev{
+    background-color: aqua;
+    border-bottom-style: outset;
+    border-radius: 30px;
+    border-color: yellow;
+    text-align: left;
+    font-family: monospace;
+    color: darkblue;
+    border-width: 3px;
+    width: 900px;
+}
+
+.achievmentsimg{
+    width: 450px;
+    height: 450px;
+}
